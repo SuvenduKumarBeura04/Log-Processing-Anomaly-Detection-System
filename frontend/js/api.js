@@ -1,7 +1,7 @@
 // ================= BASE API =================
 
 // Production backend URL
-const BASE_URL = "https://log-processing-anomaly-detection-system.onrender.com/api";
+const BASE_URL = "https://log-processing-anomaly-detection-system-h6g5.onrender.com/api";
 
 
 // ================= HELPER =================
